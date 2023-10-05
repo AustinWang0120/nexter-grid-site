@@ -32,6 +32,10 @@
 		z-index: 2;
 		justify-self: end;
 		margin: 1rem;
+
+		&:hover {
+			fill: $color-primary-dark;
+		}
 	}
 
 	&__name {

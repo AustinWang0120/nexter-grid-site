@@ -173,6 +173,8 @@ body {
     z-index: 2;
     justify-self: end;
     margin: 1rem; }
+    .home__like:hover {
+      fill: #b28451; }
   .home__name {
     grid-row: 1 / 2;
     grid-column: 1 / -1;
